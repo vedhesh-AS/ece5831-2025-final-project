@@ -49,6 +49,6 @@ Additional motorway and bridge-view traffic videos are also used for evaluation.
 5. Output includes annotated video frames and speed logs.
 
 DEMO LINK : https://youtu.be/enf79AOKATQ
-
+GOOGLE DRIVE LINK: https://drive.google.com/drive/folders/1XXPanI7HkiUi9lnizI0iJ9dZkCwqPHfG?usp=share_link 
 
 
